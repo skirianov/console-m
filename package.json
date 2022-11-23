@@ -12,5 +12,8 @@
     "print"
   ],
   "author": "@SergiiKirianov",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "simple-node-logger": "^21.8.12"
+  }
 }
