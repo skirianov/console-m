@@ -1,5 +1,5 @@
 const c = console.log.bind(document);
 
-exports.module = {
+module.exports = {
   c
 }
