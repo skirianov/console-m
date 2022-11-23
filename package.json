@@ -1,0 +1,16 @@
+{
+  "name": "console-m",
+  "version": "1.0.0",
+  "description": "Blazingly short console log alternative",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "console.log",
+    "console",
+    "print"
+  ],
+  "author": "@SergiiKirianov",
+  "license": "MIT"
+}
